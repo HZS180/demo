@@ -1,0 +1,46 @@
+.container
+    {
+        with:1920px;
+        margin: 0 auto;
+    }
+    .logo
+    {
+        margin-top: 33px;
+        float:left;
+        width:85px;
+        height:20px;
+        font-size:20px;
+        font-family:Microsoft YaHei;
+        font-weight:bold;
+        color:rgba(0,164,255,1);
+    }
+
+    .nav
+    {
+        float:left;
+        margin-top:42px;
+    }
+    .nav li
+    {
+        float:left;
+        width:85px;
+        height:19.5px;
+        text-align: center;
+        font-size:18px;
+        font-family:Microsoft YaHei;
+        font-weight:400;
+    }
+    .nav a
+    { 
+        
+        color:rgba(5,5,5,1);
+    }
+    .header-bottom
+    {
+        height:101px;
+    }
+    .form
+    {
+        float:right;
+        margin-top:31px;
+    }
